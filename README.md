@@ -28,6 +28,8 @@ Looking at the dataset from Kaggle, you can you it's a time series problem. This
 
 In this case, it's historical sales data of bulldozers. Including things like, model type, size, sale date and more.
 
+Here's the link to the [data](https://www.kaggle.com/radhakrishnasp/bulldozer-price-prediction)
+
 There are 3 datasets:
 
 Train.csv - Historical bulldozer sales examples up to 2011 (close to 400,000 examples with 50+ different attributes, including SalePrice which is the target variable).
